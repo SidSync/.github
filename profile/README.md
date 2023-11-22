@@ -4,7 +4,7 @@
 
 First off, this project was created for two main reasons:
 
-1. As part of the creator's self-improvement plan to grow skills in the areas of DevOps, Microservices, full-stack application creation and **deployment**. This is due to a career pivot the creator made in 2023 from IT Support type roles to Platform Engineering. While the creator is not a Software Engineer, and as such some of the skills needed to deliver this project will be out of scope of their job requirements, they endevour to impliment best practices in all areas of the project implimentation both out of personal interest and broadening the scope of their professional understanding.
+1. As part of the creator's self-improvement plan to grow skills in the areas of DevOps, Microservices, full-stack application creation and **deployment**. This is due to a career pivot the creator made in 2023 from IT Support type roles to Platform Engineering. While the creator is not a Software Engineer, and as such some of the skills needed to deliver this project will be out of scope of their job requirements, they endevour to try to keep to best practices in all areas of the project implementation both out of personal interest and broadening the scope of their professional understanding.
 2. As part of the creator's personal need for a better system to manage their knowledgebase type notes, which they use Obsidian for but without the premium subscription. 
 
 ### What?
